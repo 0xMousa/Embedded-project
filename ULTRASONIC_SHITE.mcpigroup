@@ -1,7 +1,0 @@
-[PROJECTS]
-Count=3
-Project0=..\..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for PIC\PROBLEM_FIXING.mcppi
-Project1=SonarSensor.mcppi
-Project2=ULTRASONIC_SHITE.mcppi
-[ActiveProject]
-Index=2
